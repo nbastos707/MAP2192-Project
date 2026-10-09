@@ -1,0 +1,32 @@
+CAPACITIVE TOUCH SAFETY SENSOR - MATERIALS LIST
+================================================
+
+MICROCONTROLLER
+- Arduino Uno R3 (or Nano)
+
+CAPACITORS
+- Ceramic capacitors 10pF
+- Ceramic capacitors 100pF
+
+RESISTORS
+- 1 MegaOhm (1M) resistors
+- 10 KiloOhm (10K) resistors
+- 220 Ohm resistors (for LED)
+
+SENSING SURFACE
+- Copper tape (adhesive) or aluminum foil
+
+WIRING & CONNECTIONS
+- Jumper wires (M-M, M-F)
+- Breadboard
+- USB cable (Type A to B for Arduino Uno)
+
+FEEDBACK COMPONENTS
+- LED (any color)
+- Buzzer/Piezo speaker
+- Push button (for calibration)
+
+TOOLS
+- Wire strippers
+- Multimeter
+- Scissors/knife
